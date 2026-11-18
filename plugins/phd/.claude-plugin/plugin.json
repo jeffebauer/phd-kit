@@ -1,0 +1,12 @@
+{
+  "name": "phd",
+  "displayName": "PhD research kit",
+  "version": "0.3.0",
+  "description": "Obsidian vault + Zotero workflows for PhD research: read each paper once, find references cheaply, cite safely, and keep sessions short.",
+  "author": {
+    "name": "Jesse Bauer"
+  },
+  "repository": "https://github.com/jeffebauer/phd-kit",
+  "license": "MIT",
+  "keywords": ["research", "phd", "zotero", "obsidian", "citations"]
+}

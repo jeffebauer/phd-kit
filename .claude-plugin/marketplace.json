@@ -1,0 +1,14 @@
+{
+  "name": "phd-kit",
+  "description": "A small, PhD-focused research kit for Claude: Obsidian vault, Zotero, and session skills",
+  "owner": {
+    "name": "Jesse Bauer"
+  },
+  "plugins": [
+    {
+      "name": "phd",
+      "source": "./plugins/phd",
+      "description": "Literature notes, finding references, citation checks, presentations, and session start/checkpoint/wrap for a PhD vault"
+    }
+  ]
+}
